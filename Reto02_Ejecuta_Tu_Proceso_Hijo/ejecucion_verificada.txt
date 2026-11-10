@@ -1,0 +1,10 @@
+=== Reto 02 · Ejecuta tu proceso hijo ===
+Sistema detectado: Linux
+Proceso padre (JVM): PID 579698
+Comando del hijo: sh -c printf 'Diagnóstico desde el proceso hijo.\n'; printf 'Mensaje de diagnóstico por stderr.\n' >&2; exit 0
+
+[stdout] Diagnóstico desde el proceso hijo.
+[stderr] Mensaje de diagnóstico por stderr.
+
+El proceso hijo terminó con código: 0
+Resultado: ejecución correcta.

@@ -7,6 +7,7 @@ Retos de consola en Java 21 para la **UD1: Programación concurrente, multiproce
 | Reto | Paquete | Qué demuestra |
 |---|---|---|
 | [Reto01 · Identifica tu proceso](Reto01_Identifica_Tu_Proceso/) | `es.ilerna.psp.ud1.reto01` | Un programa al ejecutarse se convierte en un proceso con PID y PPID propios. |
+| [Reto02 · Ejecuta tu proceso hijo](Reto02_Ejecuta_Tu_Proceso_Hijo/) | `es.ilerna.psp.ud1.reto02` | Un proceso padre crea un hijo con `ProcessBuilder`, lee su stdout/stderr y comprueba su código de salida. |
 
 ## Requisitos
 
