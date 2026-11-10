@@ -1,0 +1,9 @@
+=== Reto 01 · Identifica tu proceso ===
+PID: 561769
+PPID: 561734
+Sistema: Linux
+Java: 21.0.10
+
+Este archivo es un programa.
+Esta ejecución concreta es un proceso con su propio PID.
+Pulsa Intro para terminar y poder localizarlo mientras tanto.
